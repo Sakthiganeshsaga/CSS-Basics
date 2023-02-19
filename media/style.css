@@ -1,0 +1,30 @@
+.ger{
+    background-color: burlywood;
+    width: 90%;
+    height: 50vh;
+}
+@media screen and ( max-width:480px){
+    .ger{
+        background-image: url('mobi.jpg');
+        width: 100%;
+        height: 100vh;
+        background-size: cover;
+        
+    }
+}
+@media screen and (min-width:481px){
+    .ger{
+        background-image: url('tab.jpg');
+        width: 100%;
+        height: 100vh;
+        background-size: cover;   
+    }
+}
+@media screen and (min-width:981px){
+    .ger{
+        background-image: url('lap.jpg');
+        width: 100%;
+        height: 100vh;
+        background-size: cover;
+    }
+}

@@ -1,0 +1,40 @@
+
+body{
+    background-image: url(cke.jpg);
+    background-size: cover;
+    
+}
+.bten{
+    background-color:black;
+    text-align: right;
+
+}
+.bten ul{
+    display: inline-flex;
+    list-style: none;
+    color: black;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+    color: whitesmoke;
+}
+.bten ul li{
+    padding: 25px 12px 25px 12px;
+}
+.yer{
+    margin: 5% 12% 0% 18%;
+    font-size: xx-large;
+    font-style: italic;
+    text-align: center;
+    
+}
+button{
+    color:whitesmoke;
+    border: 22px;
+    padding: 1%;
+    background-color: black;
+}
+
+    
+

@@ -1,0 +1,43 @@
+
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    line-height: 40px;
+    color:black;
+    
+}
+body{
+    background-image: repeating-conic-gradient(plum,yellow,red);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+}
+.lin{
+    float: right;
+    text-align: right;
+    color: black;
+    list-style-type: none;
+    font-weight: 900;
+    margin: auto 10% auto auto;
+    line-height: 220%;
+    }
+a:hover{
+    cursor:wait;
+}    
+p::first-letter{
+    color: brown;
+}
+.pie{
+    float: left;
+    background-image: repeating-conic-gradient(red 25deg,blue 25deg, yellow 45deg);
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-top: 0%;
+    margin-left: 22%;
+}
+.ctr{
+    display:inline;
+}
+   
+

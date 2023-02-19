@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@800&display=swap');
+body{
+
+    background-image: url(gre.jpg);
+    background-size: cover; 
+    background-color: antiquewhite;
+}
+p{
+    text-align: left;
+    margin-top: 0%;
+    margin-left: 20%;
+    margin-right: 50%;
+    padding: 0%;
+    color: whitesmoke;
+    font-weight: 800;
+    font-size: x-large;
+   font-style: oblique;
+   font-family: Roboto Slab;   
+}
+  h6{
+    margin: 15% 50% 0% 20%;
+    text-align: left;
+    font-size:small;
+    color: aliceblue;
+    padding: 0;     
+}   
+h1{
+    color: beige;
+}  
+.bto1{
+    margin:0% 1% 0% 20% ;
+    text-align: center;
+    border: 2px solid whitesmoke;
+   padding: 5px;
+    background-color: transparent;  
+    color: whitesmoke;
+
+}
+  
+   
+.bto2{
+  padding: 5px;
+    border: 2px solid whitesmoke;
+    background-color: transparent;  
+   color: antiquewhite;
+   
+}
+    
+    
+
+
+
+
+ 

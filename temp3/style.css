@@ -1,0 +1,53 @@
+body{
+    background-image: url('temp3bg.jpeg');
+    background-size: cover;
+}
+h1{
+    color: whitesmoke;
+    margin-top: 5PX;
+}
+ul li{
+    list-style: none;
+    padding: 18PX;
+    color:black;
+    font-weight: bold;
+   
+}
+ul{
+    display: flex;
+    margin-left: 35%;
+}
+.der{
+    display: flex;
+}
+button{
+    background: transparent;
+    border-style: none;
+
+}
+li:hover{
+    color: whitesmoke;
+}
+button:hover{
+    background-color: goldenrod;
+}
+p{
+    font-weight: bolder;
+    font-size: xx-large;
+    text-align: center;
+    margin-top: 10%;
+
+}
+footer{
+    text-align: center;
+    margin-top: 15%;
+}
+.vid{
+    background: transparent;
+    background-color: whitesmoke;
+    border-radius: 10%;
+}
+.vid:hover{
+
+    background-color: orange;
+}

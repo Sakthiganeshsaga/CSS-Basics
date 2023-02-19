@@ -1,0 +1,102 @@
+body{
+    background-image: url('bg.jpg');
+    background-size: cover;
+}
+.bit{
+    border: 5px solid black;
+    width: 30%;
+    height: 80vh;
+    position: absolute;
+    left: 15%;
+    top: 15%;
+    color: antiquewhite;
+    box-shadow: 5px 5px 5px 5px black;
+
+}
+.bit ul{
+    display: flex;
+    list-style: none;
+}
+ul li{
+    padding: 10%;
+    padding-left: 10%;
+}
+.nme{
+    background: transparent;
+    margin-left: 60px;
+    border: none;
+    border-bottom: 2px solid white;
+    color: antiquewhite;
+    outline: none;
+}
+.eme{
+    background: transparent;
+    margin-left: 60px;
+    border: none;
+    border-bottom: 2px solid white;
+    color: antiquewhite;
+    margin-top: 25px;
+    outline: none;
+}
+.pwd{
+    background: transparent;
+    margin-left: 60px;
+    border: none;
+    border-bottom: 2px solid white;
+    color: antiquewhite;
+    margin-top: 30px;
+    outline: none;
+
+}
+.cpw{
+    background: transparent;
+    margin-left: 60px;
+    border: none;
+    border-bottom: 2px solid white;
+    color: antiquewhite;
+    margin-top: 30px;
+    outline: none;
+
+}
+.box{
+    margin-left: 20%;
+    margin-top: 15%;
+}
+.btn{
+    border-radius:15%;
+    margin-left: 40%;
+    margin-top: 20%;
+    background-color: orange;
+}
+.yer{
+    border: 5px solid black;
+    width: 30%;
+    height: 80vh;
+    position: absolute;
+    left: 60%;
+    top: 15%;
+    color: antiquewhite;
+    box-shadow: 5px 5px 5px 5px black;
+}
+.yer ul{
+    display: flex;
+    list-style: none;
+}
+.ere{
+    background: transparent;
+    margin-left: 60px;
+    border: none;
+    border-bottom: 2px solid white;
+    color: antiquewhite;
+    margin-top: 30px;
+    outline: none;
+}
+.oil{
+    background: transparent;
+    margin-left: 60px;
+    border: none;
+    border-bottom: 2px solid white;
+    color: antiquewhite;
+    margin-top: 30px;
+    outline: none;
+}

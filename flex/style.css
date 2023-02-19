@@ -1,0 +1,22 @@
+ul li{
+    list-style-type: none;
+}
+.mel{
+    display: flex;
+}
+.o1{
+    border: 5px solid red;
+    background-color: black;
+    color: white;
+}
+.to{
+    border: 5px solid yellow;
+    background-color: red;
+}
+.the{
+    border: 5px solid greenyellow;
+    background-color: aqua;
+}
+button{
+    margin-left: 100px;
+}
